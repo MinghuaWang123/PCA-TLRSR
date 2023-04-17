@@ -3,8 +3,10 @@
 
 Minghua Wang; Danfeng Hong; Qiang Wang; Swalpa Kumar Roy; Jocelyn Chanussot
 ---------------------
-
-Eq.(19) of the attached PDF has been revised.
+Thanks for Dr. Ren's pointing the following typos out.
+(1) Eq. (14), (19), (20) of the attached PDF have been revised.
+(2) Before Eq.(14), all Z should be W.
+The revised PDF is attached.
 
 The code in this toolbox implements the ["Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection"].
 More specifically, it is detailed as follow
